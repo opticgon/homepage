@@ -19,6 +19,9 @@
 }
 
 
+#menu img {
+    width: 180px;
+}
 #coreSet {
 position: absolute;
 left: 50%;
